@@ -1,7 +1,8 @@
 # Murder Mystery 🔎
 ## Try the challenge at [mystery.knightlab.com](https://mystery.knightlab.com/)
+## Full SQL and notes in the downloads
 
-### Solutions
+### Solution
 
 Find witness details from a murder on 15th January 2018 in SQL City
 ```
